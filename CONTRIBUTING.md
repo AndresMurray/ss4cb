@@ -101,10 +101,10 @@ If the code was written by hand, write: `manually crafted`
 
 ### Prompt
 If a language model was used, include the exact prompt used, wrapped in triple backticks:
-```
+\`\`\`
 Write a function that receives a number `number` and returns True if the number
 is prime and False if it is not.
-```
+\`\`\`
 If the code was manually crafted, omit this subsection.
 
 ## Obfuscated Version
